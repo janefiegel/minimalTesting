@@ -1,13 +1,7 @@
 ---
 title: "Cizek Notion Export"
 last_modified_at: 2026-04-08
-Excerpt: huh
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+Excerpt: "huh"
 toc: true
 ---
 
