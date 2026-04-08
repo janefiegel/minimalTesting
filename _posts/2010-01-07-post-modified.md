@@ -1,7 +1,7 @@
 ---
 title: "Cizek Notion Export"
 last_modified_at: 2026-04-08
-Excerpt: "huh"
+permalink: /tudc/:title
 toc: true
 ---
 
