@@ -1,6 +1,7 @@
 ---
 title: "Cizek Notion Export"
 last_modified_at: 2026-04-08
+Excerpt: huh
 categories:
   - Blog
 tags:
@@ -8,8 +9,6 @@ tags:
   - readability
   - standard
 toc: true
-toc_label: true
-toc_sticky: true
 ---
 
 ### Subject Terms
@@ -18,7 +17,7 @@ toc_sticky: true
 
 2 LCSH columns
 
-## Geographic Terms
+### Geographic Terms
 
 all but two of “New Orleans” have an associated neighborhood
 
